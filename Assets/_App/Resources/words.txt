@@ -1,10 +1,10 @@
-飲んで飲んで飲んで！！|飲んで飲んで飲んで！！|飲んで飲んで飲んで！！|飲んで？,nondenondenonde|nondenondenonde|nondenondenonde|nonde
-なーに持ってんの！？|なーに持ってんの！？|飲み足りないから|持ってんの！！！|ドドスコスコスコ！！|ドドスコスコスコ！！,naani motten no|naani motten no|nomi tarinai kara|motten no|dodosuko sukosuko|dodosuko sukosuko
-めたんが飲むってウワサ|ワサワサベイベワサワサ|HuHu!|ワサワサベイベワサワサ|HuHu!,metan ga nomu tte uwasa|wasawasa beibe wasawasa|huhu|wasawasa beibe wasawasa|huhu
-グーイグイグイグイ！！|グーイグイグイグイ！！|めたんが飲まなきゃ嫌だっちゃ！！|グーイグイグイグイ！！|グーイグイグイグイ！！,gui guigui guigui|gui guigui guigui|metan ga nomanakya iya daccha|gui guigui guigui|gui guigui guigui
-飲んでぐーるぐる！|飲んでぐーるぐる！|吐いちゃダメミッフィーちゃん！|ぴょぴょんのぴょんきち！！,nonde guuruguru|nonde guuruguru|haicha dame miffii-chan|pyopyon no pyonkichi
-飲み方が|わからなーい！|わからなーい！|わからないなら|帰って|ウィキペディア！！,nomikata ga|wakaranai|wakaranai|wakaranai nara|kaette|wikipedia
-今日も|おまえは|いい波乗ってんね！！|財布の|中身も|いい波乗ってんね！！,kyou mo|omae wa|ii nami notten ne|saifu no|nakami mo|ii nami notten ne
-飲んでから言え！|飲んでから言え！|飲んでから言え！|マジ黙れ！！！！,nonde kara ie|nonde kara ie|nonde kara ie|maji damare
-ラララーイ！|ラララーイ！|ラララライ麦畑で|隠れてわっしょい！！！！,rararaai|rararaai|rarara raimugibatake de|kakurete wasshoi
-飲んで飲んでキュキュ！|飲んで飲んでキュキュ！|今夜のめたんは|最高級！！！！,nonde nonde kyukyu|nonde nonde kyukyu|konya no metan wa|saikoukyuu
+飲ーんで飲んで飲んで|飲ーんで飲んで飲んで|飲ーんで飲んで飲んで|飲んで,no-nde nonde nonde|no-nde nonde nonde|no-nde nonde nonde|nonde
+なーに持ってんの|なーに持ってんの|飲み足りないから|持ってんの|ドドスコスコスコ|ドドスコスコスコ,na-ni motten no|na-ni motten no|nomi tarinai kara|motten no|dodosuko sukosuko|dodosuko sukosuko
+めたんが飲むってウワサ|ワサワサベイベワサワサ|HuHu|ワサワサベイベワサワサ|HuHu,metan ga nomu tte uwasa|wasawasa beibe wasawasa|huhu|wasawasa beibe wasawasa|huhu
+グーイグイグイグイ|グーイグイグイグイ|めたんが飲まなきゃ嫌だっちゃ|グーイグイグイグイ|グーイグイグイグイ,gu-i guigui guigui|gu-i guigui guigui|metan ga nomanakya iya daccha|gu-i guigui guigui|gu-i guigui guigui
+飲んでぐーるぐる|飲んでぐーるぐる|吐いちゃダメミッフィーちゃん|ぴょぴょんのぴょんきち,nonde gu-ruguru|nonde gu-ruguru|haicha dame miffii-chan|pyopyon no pyonkichi
+飲み方が|わからなーい|わからなーい|わからないなら|帰って|ウィキペディア,nomikata ga|wakarana-i|wakarana-i|wakaranai nara|kaette|wikipedia
+今日も|めたんは|いい波乗ってんね|財布の|中身も|いい波乗ってんね,kyou mo|metan ha|ii nami notten ne|saifu no|nakami mo|ii nami notten ne
+飲んでから言え|飲んでから言え|飲んでから言え|マジ黙れ,nonde kara ie|nonde kara ie|nonde kara ie|maji damare
+ラララーイ|ラララーイ|ラララライ麦畑で|隠れてわっしょい,rararara-i|rararara-i|rarara raimugibatake de|kakurete wassyoi
+飲んで飲んでキュキュ|飲んで飲んでキュキュ|今夜のめたんは|最高級|世界で一番お姫様,nonde nonde kyukyu|nonde nonde kyukyu|konya no metan ha|saikoukyuu|sekai de itiban ohimesama

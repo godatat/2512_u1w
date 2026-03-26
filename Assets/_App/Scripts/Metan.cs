@@ -7,7 +7,10 @@ public class Metan : Character
     {
         Normal,
         Miss,
-        Happy
+        Happy,
+        OrderNormal,
+        OrderAngry,
+        OrderHappy,
     }
 
     [SerializeField] private Image _image;

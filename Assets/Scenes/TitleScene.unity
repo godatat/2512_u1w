@@ -250,6 +250,8 @@ MonoBehaviour:
   gameManager: {fileID: 0}
   maxSpeedMultiplier: 3
   maxRotationSpeed: 360
+  cloneObjects: []
+  cloneSpawnInterval: 0.2
   _image: {fileID: 0}
   facialSprites: []
   facial: 0
@@ -2400,7 +2402,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u65B0\u4EBA\u30DB\u30B9\u30C8\u306E\u305A\u3093\u3060\u3082\u3093\n\n\u4ECA\u65E5\u3082\u30CE\u30EB\u30DE\u9054\u6210\u306E\u305F\u3081\u306B\u4E0A\u624B\u306B\u30B3\u30FC\u30EB\u3092\u5165\u308C\u3066\u5834\u3092\u76DB\u308A\u4E0A\u3052\u308B\u306E\u3060\uFF01"
+  m_text: "\u307C\u304F\u306F\u65B0\u4EBA\u30DB\u30B9\u30C8\u306E\u305A\u3093\u3060\u3082\u3093\uFF01\n\n\u4ECA\u65E5\u3082\u30CE\u30EB\u30DE\u9054\u6210\u306E\u305F\u3081\u306B\u4E0A\u624B\u306B\u30B3\u30FC\u30EB\u3092\u5165\u308C\u3066\u5834\u3092\u76DB\u308A\u4E0A\u3052\u308B\u306E\u3060\uFF01\uFF01"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1ee83660a30af8543af92d61479abb9e, type: 2}
   m_sharedMaterial: {fileID: -8532772630618581053, guid: 1ee83660a30af8543af92d61479abb9e, type: 2}
@@ -3160,6 +3162,8 @@ MonoBehaviour:
   gameManager: {fileID: 0}
   maxSpeedMultiplier: 3
   maxRotationSpeed: 360
+  cloneObjects: []
+  cloneSpawnInterval: 0.2
   _image: {fileID: 733973530}
   facialSprites:
   - {fileID: 5859933353584885379, guid: f53d3cca9aeff5444b7e2f49ce9df5c1, type: 3}
@@ -8355,6 +8359,8 @@ MonoBehaviour:
   gameManager: {fileID: 0}
   maxSpeedMultiplier: 3
   maxRotationSpeed: 360
+  cloneObjects: []
+  cloneSpawnInterval: 0.2
   _image: {fileID: 0}
   facialSprites: []
   facial: 0
@@ -8520,6 +8526,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 776a185bba608284cb701bc9f1d85e91, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TItle
+  sePlayer: {fileID: 2037892051}
+  clickSE: {fileID: 8300000, guid: 1be5fb0d355da264d992f470e27b7eef, type: 3}
 --- !u!1 &2037892050
 GameObject:
   m_ObjectHideFlags: 0

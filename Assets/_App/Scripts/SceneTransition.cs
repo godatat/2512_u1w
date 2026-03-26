@@ -65,6 +65,12 @@ public class SceneTransition : MonoBehaviour
 
     private void LoadSceneWithFade(string sceneName)
     {
+        // AudioListenerを使って全音声をフェードアウト
+        if (AudioListener.volume > 0f)
+        {
+            DOTween.To(() => AudioListener.volume, x => AudioListener.volume = x, 0f, _fadeDuration);
+        }
+        
         if (_fadeCanvasGroup != null)
         {
             _fadeCanvasGroup.gameObject.SetActive(true);
@@ -99,6 +105,10 @@ public class SceneTransition : MonoBehaviour
                 _fadeCanvasGroup.gameObject.SetActive(false);
             });
         }
+        
+        // AudioListenerを使って全音声をフェードイン
+        AudioListener.volume = 0f;
+        DOTween.To(() => AudioListener.volume, x => AudioListener.volume = x, 1f, _fadeDuration);
     }
 }
 
